@@ -1,0 +1,2 @@
+Kelebihan melakukan incremental database backup menggunakan mysqldump / binary logs yaitu sintax nya yang mudah dan sederhana.
+Kekurangan melakukan incremental database backup menggunakan mysqldump / binary logs yaitu bisa terjadi masalah saat menyalin file log biner yang aktif.

@@ -1,0 +1,2 @@
+Kelebihan dari backup database menggunakan mysqldump yaitu kita tidak perlu menginstall tools ini karena sudah tersedia saat menginstall MySql, mudah digunakan, sintax yang sederhana.
+Kekurangan dari backup database menggunakan mysqyldump yaitu hanya menggunakan 1 utas saat mengambil cadangan dan memulihkan.

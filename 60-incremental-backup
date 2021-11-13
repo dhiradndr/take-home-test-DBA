@@ -1,0 +1,1 @@
+mysqldump --single-transaction --quick --skip-extended-insert \  --routines -umyuser -pmysecret classicmodels > /path/to/dumps/dir/classicmodels.dump; rdiff-backup /path/to/dumps/dir//path/to/backup/dir/
